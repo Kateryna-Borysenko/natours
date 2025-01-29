@@ -1,5 +1,21 @@
 <!-- анимация  https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timing-function
 
+.heading-primary--main {
+  display: block;
+  font-size: 6rem;
+  font-weight: 40rem;
+  letter-spacing: 3.5rem;
+
+  animation-name: moveInLeft;
+  animation-duration: 1s;
+
+  animation-timing-function: ease-out;
+  /*
+    animation-delay: 3s; задержка анимации
+    animation-iteration-count: 3; количество повторений анимации
+  */
+}
+
 
 html {
   1rem = 10px
