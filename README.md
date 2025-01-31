@@ -29,4 +29,7 @@ https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274436#content
 
 как сделать градиент заголовок
 https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274490#content
+
+иконки
+https://linea.io/
 -->
