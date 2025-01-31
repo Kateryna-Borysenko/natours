@@ -25,4 +25,8 @@ html {
   font-size: 62.5%; но это лучшая практика
 }
 https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274436#content
+
+
+как сделать градиент заголовок
+https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274490#content
 -->
