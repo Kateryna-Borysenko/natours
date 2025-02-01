@@ -32,4 +32,8 @@ https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274490#content
 
 иконки
 https://linea.io/
+
+обработка картинок:
+background-blend-mode: screen; варианты в devtools
+https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274502#content
 -->
