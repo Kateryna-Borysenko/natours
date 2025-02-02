@@ -38,4 +38,20 @@ background-blend-mode: screen; варианты в devtools
 https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274502#content
 
 бесплатные видео https://coverr.co/
+
+создание текста из нескольких колонок popup
+https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274530#content
+    -moz-column-count: 2;
+    -moz-column-gap: 4rem;
+    -moz-column-rule: 1px solid $color-grey-light-2;
+
+    column-count: 2;
+    column-gap: 4rem;
+
+перенос слов
+https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274530#content
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
 -->
