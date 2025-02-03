@@ -97,4 +97,56 @@
       color: $color-primary;
     }
   }
+
+  @include respond(tab-port) {
+    .popup__content {
+      display: block;
+      width: 95%;
+      padding: 2rem;
+    }
+
+    .popup__left,
+    .popup__right {
+      width: 100%;
+      display: block;
+    }
+
+    .popup__left {
+      margin-bottom: 2rem;
+    }
+
+    .popup__img {
+      width: 50%;
+      height: 200px;
+      float: left;
+      object-fit: cover;
+    }
+
+    .popup__img:last-child {
+      margin-right: 0;
+
+      .popup__text {
+        clear: both;
+        column-count: 1;
+        column-gap: 0;
+      }
+    }
+  }
+
+  @include respond(phone) {
+    .popup__img {
+      display: none;
+    }
+
+    .popup__text {
+      clear: both;
+      column-count: 1;
+      column-gap: 0;
+    }
+
+    .popup__content {
+      max-height: 95vh;
+      overflow-y: auto;
+    }
+  }
 }

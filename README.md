@@ -81,4 +81,14 @@ html {
 последовательность при написании @media
 base typography layout grid page components
 
+тестирование медиа запросов на реальном устройстве
+https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274554#content
+sizzy - https://sizzy.co/
+
+
+как проверить какое изображение загрузилось 1х 2х
+https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274562#content
+размер для разных экранов
+https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274562#content
+
 -->
