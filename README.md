@@ -91,4 +91,7 @@ https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274562#content
 размер для разных экранов
 https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274562#content
 
+адаптирование фоновых изображений
+https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274564#content
+
 -->
