@@ -95,3 +95,32 @@ https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274562#content
 https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274564#content
 
 -->
+
+# Natours - Nature Tour Booking Website
+
+<img src="./img/page-screenshot.png">
+
+## Description
+
+**Natours** is a fictional website for a company offering nature tours. This
+project focuses on creating a modern and interactive user interface using **pure
+HTML and CSS**, without JavaScript.
+
+## Features
+
+- **Modern, responsive design**
+- **CSS animations** for smooth transitions
+- **Hover effects** on interactive elements
+- **Flip card effect** for tour details
+- **Pure CSS modal pop-up**
+- **Background video integration**
+- **Custom-designed radio buttons and form interactions**
+
+## Technologies Used
+
+- **HTML5** for structure
+- **CSS3** for styling and animations
+- **Float** for layout
+
+This project is designed to showcase advanced CSS techniques and inspire
+creative UI development.
